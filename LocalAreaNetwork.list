@@ -1,4 +1,4 @@
 # 本地/局域网地址
-SRC-IP-CIDR,192.168.11.105/32
+SRC-IP-CIDR,192.168.11.105/32,no-resolve
 DOMAIN-SUFFIX,capitalone.com
 DOMAIN-SUFFIX,amazon.com
