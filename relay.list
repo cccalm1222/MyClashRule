@@ -5,3 +5,4 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,equifax
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,reddit.com
+IP-CIDR,47.89.188.63/32
