@@ -1,3 +1,4 @@
+IP-CIDR,47.89.188.63/32
 DOMAIN-KEYWORD,capitalone
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,calvinklein
@@ -5,4 +6,4 @@ DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,equifax
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,reddit.com
-IP-CIDR,47.89.188.63/32
+DOMAIN-KEYWORD,endclothing
