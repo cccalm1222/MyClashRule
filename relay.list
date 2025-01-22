@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,equifax
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-KEYWORD,endclothing
-DOMAIN-SUFFIX,sc.uspsuts.com
 DOMAIN-SUFFIX,credit.com
 SRC-IP-CIDR,192.168.11.105/32
 DOMAIN-SUFFIX,giftcards.com
