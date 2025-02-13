@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,endclothing
 DOMAIN-SUFFIX,credit.com
 SRC-IP-CIDR,192.168.11.105/32
 DOMAIN-SUFFIX,giftcards.com
-DOMAIN-KEYWORD,jellycat
+DOMAIN-SUFFIX,jellycat.com
+DOMAIN-SUFFIX,us.jellycat.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,sc.uspsuts.com
